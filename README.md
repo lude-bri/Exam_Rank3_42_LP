@@ -17,7 +17,7 @@ This is the second exam in the Common Core at 42 school! It's normally easier th
 
 In this repository, we're going to see the exercises of this exam. Which is only one. Either `get_next_line` or `push_swap`
 
-# Tips!
+# Tips! 💡
 
 Point a terminal to your `~/` directory and add the following lines to your `.zshrc` and `.vimrc` files.
 
@@ -55,7 +55,7 @@ set autoindent " Enables automatic indetation
 set smartindent " Enables smart indentation for programming
 ```
 
-## Exam Exercises
+## Exam Exercises 📚
 
 The Rank 3 Exam has only one question. It will be `get_next_line` or `push_swap`.
 
