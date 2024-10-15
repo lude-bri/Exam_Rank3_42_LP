@@ -8,7 +8,7 @@
         <li><a href="#">About</a></li>
         <li><a href="#">Tips</a></li>
         <li><a href="#">Exam Exercises</a></li>
-        <li><a href="#">License: copyright</a></li>
+        <a href="#">License: copyright</a>
 </ol>
 
 # About 
