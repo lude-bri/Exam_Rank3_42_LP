@@ -57,6 +57,12 @@ set smartindent " Enables smart indentation for programming
 
 ## Exam Exercises 📚
 
+
+### License :copyright:
+
+This work is published under the terms of <a href="https://github.com/lude-bri/42_Common_Core/blob/main/LICENSE.md">42 Unlicense</a>.
+
+
 The Rank 3 Exam has only one question. It will be `get_next_line` or `push_swap`.
 
 
