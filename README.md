@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=0ABAB5&text=Exam_Rank03&fontColor=fcf3f2"
-
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=0ABAB5&text=Exam_Rank03&fontColor=fcf3f2">
 </div>
 
 ## Index
