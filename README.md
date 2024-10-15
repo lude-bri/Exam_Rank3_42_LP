@@ -5,9 +5,9 @@
 ## Index
 
 <ol>
-        <a href="#">About</a>
-        <a href="#">Tips</a>
-        <a href="#">Exam Exercises</a>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Tips</a></li>
+        <li><a href="#">Exam Exercises</a></li>
         <a href="#">License: copyright</a>
 </ol>
 
