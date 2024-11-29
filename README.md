@@ -62,8 +62,16 @@ set smartindent " Enables smart indentation for programming
 ```
 ---
 
+<div align="center">
+
 ## Exam Exercises 📚
 
+| **Exercise** |
+| ------------ |
+| [ft_printf](https://github.com/lude-bri/printf_exam_03) |
+| [get_next_line](https://github.com/lude-bri/gnl_exam_03/tree/main) |
+
+</div>
 
 ---
 
