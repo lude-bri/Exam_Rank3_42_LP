@@ -1,27 +1,33 @@
 <a name="readme-top"></a>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=0ABAB5&text=Exam_Rank03&fontColor=fcf3f2">
+<div align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=0ABAB5&text=Exam_Rank03&fontAlignY=62&fontAlign=50&fontColor=fcf3f2&animation=fadeIn" />
+
+## Table of Contents
+
+<!-- mtoc-start -->
+* [About](#about-)
+* [Tips](#tips-)
+* [Exam Exercises](#exam-exercises-)
+* [License ©](#license-copyright)
+<!-- mtoc-end -->
+
 </div>
 
-## Index
+---
 
-<ol>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Tips</a></li>
-        <li><a href="#">Exam Exercises</a></li>
-        <a href="#">License: copyright</a>
-</ol>
+# About 📜
 
-# About 
+This is the second exam in the **Common Core** at 42 school! It's normally easier than the previous one.  
+In this repository, you'll find exercises for this exam. The possible questions are:  
+- **`get_next_line`**  
+- **`push_swap`**
 
-This is the second exam in the Common Core at 42 school! It's normally easier than the previous one.
+---
 
-In this repository, we're going to see the exercises of this exam. Which is only one. Either `get_next_line` or `push_swap`
+## Tips! 💡
 
-# Tips! 💡
-
-Point a terminal to your `~/` directory and add the following lines to your `.zshrc` and `.vimrc` files.
-
-If any of these files dont exist, create it! This should be the case for `.vimrc`
+Point a terminal to your `~/` directory and add the following lines to your `.zshrc` and `.vimrc` files.  
+If any of these files don't exist, create them! This is typically the case for `.vimrc`.
 
 ## .zshrc
 
@@ -54,15 +60,20 @@ set shiftwidth=4 " Sets the width of auto-indent to 4 spaces
 set autoindent " Enables automatic indetation
 set smartindent " Enables smart indentation for programming
 ```
+---
 
 ## Exam Exercises 📚
 
+
+---
+
+</div>
+
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0ABAB5&text=Good%20Luck!&section=footer&fontAlign=52&fontAlignY=55&fontColor=fcf3f2" />
 
 ### License :copyright:
 
 This work is published under the terms of <a href="https://github.com/lude-bri/42_Common_Core/blob/main/LICENSE.md">42 Unlicense</a>.
 
-
-The Rank 3 Exam has only one question. It will be `get_next_line` or `push_swap`.
-
-
+</div>
+<p align="right">(<a href="#readme-top">up</a>)</p>
